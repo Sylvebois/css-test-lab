@@ -1,0 +1,11 @@
+#page1 {
+  background-color: red;
+}
+
+#page2 {
+  background-color: blue;
+}
+
+@view-transition {
+  navigation:auto;
+}
