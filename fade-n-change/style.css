@@ -1,0 +1,12 @@
+.portrait {
+  transition: opacity 0.5s ease-in-out, border 0.5s ease-in-out, width 0.5s ease-in-out, height 0.5s ease-in-out;
+  opacity: 1;
+}
+
+.first .portrait {
+  border: 1px solid black;
+}
+
+.second .portrait {
+  border: 1px dashed red;
+}
